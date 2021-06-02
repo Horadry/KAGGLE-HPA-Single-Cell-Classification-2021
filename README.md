@@ -18,6 +18,10 @@ Code competition
 
 https://www.kaggle.com/c/hpa-single-cell-image-classification
 
+## Our solution:
+
+https://www.kaggle.com/koltaibeatrix/hpa-single-cell-classification-submission-2
+
 
 ## Our team:
 
