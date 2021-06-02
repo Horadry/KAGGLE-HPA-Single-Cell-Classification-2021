@@ -46,7 +46,7 @@ https://www.proteinatlas.org/
 
 Train and test images: 4 images belong together. Red, blue and yellow filters (images 1-3) show the location of some cell organelles and the green filter (image 4) shows the location of the protein.   
 
-Train data: image level labels
+Train data: image level labels. Labels refer to cell organelles where the protein occours. 
 
 
 
