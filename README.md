@@ -1,9 +1,6 @@
 # KAGGLE-HPA-Single-Cell-Classification-2021
-Kaggle HPA Single cell classification
-
-
-# Kaggle-HPA-Single-Cell-Classification
-KAGGLE - Code competition
+Kaggle HPA Single cell classification 
+Code competition
 
 
 - Semi-supervised learning
