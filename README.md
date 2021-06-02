@@ -83,7 +83,7 @@ There are many state-of-the-art and newer methods such as Cross-Image pixel cont
 
 Our aim was to inspect the effectiveness of the EfficientnetB0 in this task. We trained a new model for each label.
 
-Our dataset contained 4-color channel images. The EfficientnetB0 is designed for 3-channel data. Since dimensionality reduction could lead to information loss we decided to use a 4-channel input layer replacing the original input layer of the EfficientnetB0.
+Our dataset contained 4-color channel images. The EfficientnetB0 is designed for 3-channel data. Since color channel reduction could lead to information loss we decided to use a 4-channel input layer replacing the original input layer of the EfficientnetB0.
 
 
 
