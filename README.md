@@ -79,8 +79,6 @@ On the base of HPA Cellsegmentetor
 
 After degenerating the problem to a **multi-instance single-label problem** (Zhou et al. 2011) we used **EfficientnetB0** as base model for predicting the occurrence of a given label on the images, as a binary classification. 
 
-There are many state-of-the-art and newer methods such as Cross-Image pixel contrast, Graph-CNN, Fast-RNN, Faster-RNN, Yolov3, Automated object localization etc. Most of them use supervised methods or there are some correlation between the labels and the instances so these methods did not proved to be useful for our task.  
-
 Our aim was to inspect the effectiveness of the EfficientnetB0 in this task. We trained a new model for each label.
 
 Our dataset contained 4-color channel images. The EfficientnetB0 is designed for 3-channel data. Since color channel reduction could lead to information loss we decided to use a 4-channel input layer replacing the original input layer of the EfficientnetB0.
