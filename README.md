@@ -96,7 +96,7 @@ With our hyperparameter setting the best performance of our model was:
 
 
 
-The EfficientB0 proved to be a working but less effective method for the HPA Single Cell Classification task. 
+Our EfficientB0 based model system proved to be a working but less effective method for the HPA Single Cell Classification task. 
 
 Our future plan is to inspecting the effectiveness of other models so that we can improve the accuracy. 
 
