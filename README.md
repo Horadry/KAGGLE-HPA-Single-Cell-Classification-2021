@@ -81,7 +81,7 @@ After degenerating the problem to a **multi-instance single-label problem** (Zho
 
 Our aim was to inspect the effectiveness of the EfficientnetB0 in this task. We trained a new model for each label.
 
-Our dataset contained 4-color channel images. The EfficientnetB0 is designed for 3-channel data. Since color channel reduction could lead to information loss we decided to use a 4-channel input layer replacing the original input layer of the EfficientnetB0.
+
 
 
 
@@ -100,7 +100,7 @@ Our EfficientB0 based model system proved to be a working but less effective met
 
 Our future plan is to inspecting the effectiveness of other models so that we can improve the accuracy. 
 
-Reducing the 4-channel method to a 3-channel solution would decrease the number of hyperparameters, gaining a decreased computation time. 
+
 
 
 ## Contact
